@@ -5,9 +5,7 @@ The Mechanical MNIST crack path dataset contains the simulation results of 70,00
 
 For all samples, the material domain is a square with a side length of 1. There is an initial crack of fixed length (0.25) on the left edge of each domain. The bottom edge of the domain is fixed in x (horizontal) and y (vertical), the right edge of the domain is fixed in x and free in y, and the left edge is free in both x and y. The top edge is free in x, and in y it is displaced such that, at each step, the displacement increases linearly from zero at the top right corner to the maximum displacement on the top left corner. Maximum displacement starts at 0.0 and increases to 0.02 by increments of 0.0001 (200 simulation steps in total).
 
-<div class="center">
-<img src="https://user-images.githubusercontent.com/54042195/127223225-2604c873-2727-484e-a8ae-aff22cf7dd14.png" alt="drawing" width="500"/>
-<div>
+<img src="https://user-images.githubusercontent.com/54042195/127223225-2604c873-2727-484e-a8ae-aff22cf7dd14.png" alt="drawing" width="500" align="center"/>
   
 # Two Versions of the Dataset:
 ## 1) The lite version available on OpenBU:
