@@ -24,13 +24,11 @@ early stage of damage initiation (when the reaction force is maximum).
 
 Mechanical MNIST collection: http://hdl.handle.net/2144/39371
 
-``Mechanical MNIST -- Crack Path``: https://hdl.handle.net/2144/42757
+Mechanical MNIST Crack Path: https://hdl.handle.net/2144/42757
 
-``Mechanical MNIST -- Crack Path -- Extended Version``: https://doi.org/10.5061/dryad.rv15dv486
+Mechanical MNIST Crack Path - Extended Version: https://doi.org/10.5061/dryad.rv15dv486
 
 # This repository contains the following:
-
-## 1) the code used to generate the dataset
 
 *inclusions* -- folder containing inclusions center points for 10 samples
 
