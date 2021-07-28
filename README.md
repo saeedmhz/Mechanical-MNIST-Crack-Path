@@ -9,7 +9,7 @@ For all samples, the material domain is a square with a side length of 1. There 
   <img src="https://user-images.githubusercontent.com/54042195/127223225-2604c873-2727-484e-a8ae-aff22cf7dd14.png" alt="drawing" width="500"/>
 </p>
 
-# Two Versions of the Dataset:
+# Two Versions of the Dataset
 ## 1) The lite version available on OpenBU:
 * An array corresponding to the rigidity ratio to capture heterogeneous material distribution reported over a uniform 64 × 64 grid.
 * The binary damage field at the final level of applied displacement reported over a uniform 256 × 256 grid.
@@ -30,7 +30,7 @@ Mechanical MNIST Crack Path: https://hdl.handle.net/2144/42757
 
 Mechanical MNIST Crack Path - Extended Version: https://doi.org/10.5061/dryad.rv15dv486
 
-# This repository contains the following:
+# Included in This Repository
 
 *inclusions* -- folder containing inclusions center points for 10 samples
 
